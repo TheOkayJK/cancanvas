@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CanCan</string>
+    <string name="dialog_checkbox">This dialog will only be shown once! You must reinstall the app to view this again! \nCheck this box to confirm that you understand.</string>
+    <string name="dialog_message">\nThis app, CanCan, only acts as a shortcut for the Google Canvas Progressive Web App (PWA). \n\nNOTE: I have no affiliation with Google or any of their products. \n\nUse this app if you have a Chromebook with a stylus and want to take quick notes on Canvas. \n\nTo use the app you have two options: \n\n\t1. Click the app icon to open Canvas. \n\n\t2. Click the \"Create note\" button in the stylus menu. \n\t(Option 2 is ONLY available if you have a Chromebook that has a non-capacitive stylus!) \n\nUnfortunately due to the nature of the Canvas PWA I am unable to create a new note or open an existing one automatically. As soon as Google decides to allow that to happen within their app I will implement it, but there is nothing I can do in the meantime. Feel free to complain about the lack of API access to Google, though. \n\nIf you have any questions hit the \"HELP\" button below to be taken to the help article which includes some FAQs and a way to contact me. \n\nI hope this app makes using your device easier!\n\n</string>
+    <string name="dialog_title">About this app and how to use it.</string>
+    <string name="dialog_button_continue">HURRY UP AND LET ME DRAW!</string>
+    <string name="dialog_button_help">HELP</string>
+</resources>
